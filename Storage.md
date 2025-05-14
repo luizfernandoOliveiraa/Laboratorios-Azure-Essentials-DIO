@@ -1,0 +1,1 @@
+### Na aula e projeto práticos, aprendemos sobre o que é e como utilizar as opções de armazenamento no azure e também podemos ver uma perspectiva de diversos casos de uso, tornando assim o aprendizado mais dinâmico e fixando melhor na memória. 
